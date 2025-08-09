@@ -9,7 +9,7 @@ This is an n8n community node. It lets you use `n8n-nodes-execute-command-plus` 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
 [Installation](#installation)  
-[Usage](#usage)
+[Usage](#usage)  
 [Resources](#resources)  
 [License](#license)
 
@@ -21,7 +21,7 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 Specify the encoding (e.g. `cp932` in Japanese).
 
-![usage](https://github.com/user-attachments/assets/dea4478c-2e96-4dd1-848c-ed9e46c68303)
+![usage](https://github.com/user-attachments/assets/87cc4d46-52c7-4e11-8324-63207063af11)
 
 ## Resources
 
